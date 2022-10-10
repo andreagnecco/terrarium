@@ -83,9 +83,21 @@ h1 {
 }
 
 .jar-glossy-long {
-
+	position: relative;
+	top: 60%;
+	left: 2%;
+	width: 3%;
+	height: 20%;
+	border-radius: 2vw;
+	background-color: #EEFEFF;
 }
 
 .jar-glossy-short {
-    
+	position: relative;
+	top: 32%;
+	left: 2%;
+	width: 3%;
+	height: 6%;
+	border-radius: 2vw;
+	background-color: #EEFEFF;
 }
